@@ -1,4 +1,4 @@
-# Virtual Assistant
+# Face Recongition Based Attendance System
 Assalamu Alaikum (السلام عليكم). This is a research based project that based on Face Detection Based Attendance System. In this project python, Django and Machine Learning algorithn have been used smoothly for better researh. As It's an open source project. So, It's open for anyone to download the source code and use. 
 
 ## If you like my project 
