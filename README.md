@@ -5,7 +5,7 @@ Assalamu Alaikum (السلام عليكم). This is a research based project tha
 Don't forget to (Follow) and press the (Star) button. If you want to save this project in your profile, then click on the (Fork) button from the top right side
 
 ## visit other repository with below link
-https://github.com/shohan3401?tab=repositories
+https://github.com/hello-shohanur?tab=repositories
 
 
 ## Contact with me
